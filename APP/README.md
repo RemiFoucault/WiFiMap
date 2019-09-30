@@ -1,4 +1,4 @@
-The app was concieved using Android Studio 3.4.1 You can find in the attached folder "Classroom Wifi" the entirety of the project.
+The app was concieved using Android Studio 3.4.1 You can find in the attached zip "ClassroomWifi" the entirety of the project and the last version of the app's apk.
 
 The app targets Android API level 28 but is compatible with Android since API level 14. It uses the PermissionManager library created by karanchuri : https://github.com/karanchuri/PermissionManager/blob/master/LICENSE.md
 
